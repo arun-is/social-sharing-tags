@@ -1,1 +1,1 @@
-# Social Sharing Tags Boilerplates
+# Social Sharing Tags
